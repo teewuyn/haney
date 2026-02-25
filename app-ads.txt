@@ -1,4 +1,8 @@
-ownerdomain=duoplay-studio.vercel.app
+ownerdomain=nurie-sah.vercel.app
+
+#Admob
+google.com, pub-9143607040569789, DIRECT, f08c47fec0942fa0
+google.com, pub-6488474333610777, DIRECT, f08c47fec0942fa0
 
 #Facebook
 facebook.com, 303620318121821, DIRECT, c3e20eee3f780d68
